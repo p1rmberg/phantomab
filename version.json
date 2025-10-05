@@ -1,0 +1,6 @@
+{
+  "current_version": "1.0.5",
+  "update_message": "Доступно обновление! Свяжитесь с @cennik850 для получения новой версии.",
+  "update_url": "https://t.me/cennik850",
+  "changelog": " - Добавлена поддержка собственного телеграмм бота, для управления автобаером дистанционно (гайд с подключением есть в самом скрипте).\n - Исправлен режим 'Поиск доступного товара': улучшена работоспособность, добавлено логирование происходящего.\n - Исправлена ошибка 'An invalid Peer was used. Make sure to pass the right peer type and that the value is valid (for instance, bots cannot start conversations) (caused by SendMessageRequest)'"
+}
